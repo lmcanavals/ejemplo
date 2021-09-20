@@ -21,3 +21,5 @@ Mi modificación para el ejemplo de la sección SW6B
 Mi modificación para el ejemplo de la sección SW6A
 
 MIren CC42!
+
+Esta es una modificación desde mi computadora :D
