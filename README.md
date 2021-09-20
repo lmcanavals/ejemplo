@@ -1,5 +1,12 @@
 # ejemplo
 
+## Integrantes
+
+* Juan Perez
+* Walter Cueva
+* Willy Ugarte
+* Luis Canaval
+
 
 Una cara feliz.
 
