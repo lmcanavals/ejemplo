@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-* Juan Perez
-* Walter Cueva
-* Willy Ugarte
-* Luis Canaval
+* Juan Perez Lopez
+* Walter Cueva Chavez
+* Willy Ugarte Smith
+* Luis Canaval Sanchez
 
 
 Una cara feliz.
