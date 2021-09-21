@@ -6,6 +6,7 @@
 * Walter Cueva Chavez
 * Willy Ugarte Smith
 * Luis Canaval Sanchez
+* Anthony Manco Cuellar
 
 
 Una cara feliz.
