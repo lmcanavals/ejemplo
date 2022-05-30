@@ -9,6 +9,7 @@
 * Anthony Manco Cuellar
 
 Hoy es un nuevo día
+y el sol se deja ver...
 
 Una cara feliz.
 
