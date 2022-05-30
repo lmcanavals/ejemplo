@@ -2,4 +2,7 @@
 
 ## Introducción
 
-To be defined
+## Objetivos
+
+Mostrar como crear issues
+Cerrar un issue desde windows con github desktop
