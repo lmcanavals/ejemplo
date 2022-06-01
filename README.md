@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-* Juan Perez Lopez
-* Walter Cueva Chavez
-* Willy Ugarte Smith
-* Luis Canaval Sanchez
-* Anthony Manco Cuellar
+* Juan Perez Lopez (estrellitafugaz)
+* Walter Cueva Chavez (waltercueva)
+* Willy Ugarte Smith (willix)
+* Luis Canaval Sanchez (lmcanavals)
+* Anthony Manco Cuellar (anthonym)
 
 Hoy es un nuevo día
 y el sol se deja ver...
