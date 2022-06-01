@@ -7,6 +7,7 @@
 * Willy Ugarte Smith (willix)
 * Luis Canaval Sanchez (lmcanavals)
 * Anthony Manco Cuellar (anthonym)
+* Claudia Lucia (claudia)
 
 Hoy es un nuevo día
 y el sol se deja ver...
